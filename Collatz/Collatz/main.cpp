@@ -28,8 +28,10 @@ int getinput(){
     return x;
 }
 
+
+
 int main(int argc, const char * argv[]) {
     int x = getinput();
-    cout << x;
+    
     return 1;
 }

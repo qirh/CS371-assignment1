@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		029641641C63DB25003BC1F1 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 029641631C63DB25003BC1F1 /* main.cpp */; };
+		029641731C63EFB6003BC1F1 /* Collatz.c++ in Sources */ = {isa = PBXBuildFile; fileRef = 0296416A1C63EFB6003BC1F1 /* Collatz.c++ */; };
+		029641741C63EFB6003BC1F1 /* makefile in Sources */ = {isa = PBXBuildFile; fileRef = 0296416C1C63EFB6003BC1F1 /* makefile */; };
+		029641751C63EFB6003BC1F1 /* RunCollatz.c++ in Sources */ = {isa = PBXBuildFile; fileRef = 0296416E1C63EFB6003BC1F1 /* RunCollatz.c++ */; };
+		029641761C63EFB6003BC1F1 /* TestCollatz.c++ in Sources */ = {isa = PBXBuildFile; fileRef = 029641711C63EFB6003BC1F1 /* TestCollatz.c++ */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +29,15 @@
 /* Begin PBXFileReference section */
 		029641601C63DB25003BC1F1 /* Collatz */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Collatz; sourceTree = BUILT_PRODUCTS_DIR; };
 		029641631C63DB25003BC1F1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		0296416A1C63EFB6003BC1F1 /* Collatz.c++ */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Collatz.c++"; sourceTree = "<group>"; };
+		0296416B1C63EFB6003BC1F1 /* Collatz.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Collatz.h; sourceTree = "<group>"; };
+		0296416C1C63EFB6003BC1F1 /* makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; path = makefile; sourceTree = "<group>"; };
+		0296416D1C63EFB6003BC1F1 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
+		0296416E1C63EFB6003BC1F1 /* RunCollatz.c++ */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "RunCollatz.c++"; sourceTree = "<group>"; };
+		0296416F1C63EFB6003BC1F1 /* RunCollatz.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = RunCollatz.in; sourceTree = "<group>"; };
+		029641701C63EFB6003BC1F1 /* RunCollatz.out */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = RunCollatz.out; sourceTree = "<group>"; };
+		029641711C63EFB6003BC1F1 /* TestCollatz.c++ */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "TestCollatz.c++"; sourceTree = "<group>"; };
+		029641721C63EFB6003BC1F1 /* TestCollatz.out */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TestCollatz.out; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +70,15 @@
 		029641621C63DB25003BC1F1 /* Collatz */ = {
 			isa = PBXGroup;
 			children = (
+				0296416A1C63EFB6003BC1F1 /* Collatz.c++ */,
+				0296416B1C63EFB6003BC1F1 /* Collatz.h */,
+				0296416C1C63EFB6003BC1F1 /* makefile */,
+				0296416D1C63EFB6003BC1F1 /* README */,
+				0296416E1C63EFB6003BC1F1 /* RunCollatz.c++ */,
+				0296416F1C63EFB6003BC1F1 /* RunCollatz.in */,
+				029641701C63EFB6003BC1F1 /* RunCollatz.out */,
+				029641711C63EFB6003BC1F1 /* TestCollatz.c++ */,
+				029641721C63EFB6003BC1F1 /* TestCollatz.out */,
 				029641631C63DB25003BC1F1 /* main.cpp */,
 			);
 			path = Collatz;
@@ -119,6 +141,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				029641641C63DB25003BC1F1 /* main.cpp in Sources */,
+				029641731C63EFB6003BC1F1 /* Collatz.c++ in Sources */,
+				029641741C63EFB6003BC1F1 /* makefile in Sources */,
+				029641761C63EFB6003BC1F1 /* TestCollatz.c++ in Sources */,
+				029641751C63EFB6003BC1F1 /* RunCollatz.c++ in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
