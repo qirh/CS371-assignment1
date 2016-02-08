@@ -1,0 +1,12 @@
+{ "Project #1":
+	{	"Eid":"SOA322",
+		"Email":"almto3@hotmail.com",
+		"GitHub Username":"almto3",
+		"GitHub URL":"https://github.com/almto3/cs371p-collatz",
+		"GitSHA":"8aa088f9ecc32ed09d06cc11c12665f72be9e84c",
+		"Travis CI URL":"https://travis-ci.com/almto3/cs371p-collatz",
+		"Estimated Completion Time (hours: int)":20,
+		"Actual Completion Time (hours: int)":5,
+		"Comments":"I didn't give this project as much time as it deserves and barley did any work on the code, sorry for the mess."
+    }
+}

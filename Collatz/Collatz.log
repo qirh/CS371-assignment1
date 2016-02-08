@@ -1,0 +1,84 @@
+commit 8aa088f9ecc32ed09d06cc11c12665f72be9e84c
+Author: saleh alghusson <almto3@hotmail.com>
+Date:   Fri Feb 5 09:31:07 2016 -0600
+
+    deleted folder
+
+commit 61d03c430546cfd902c5b74f8bc80fb1c0b5f0a5
+Author: saleh alghusson <almto3@hotmail.com>
+Date:   Fri Feb 5 09:05:50 2016 -0600
+
+    added list
+
+commit ce919d7c8553bb42f06a34ab1ee0d123a67cf49a
+Merge: a5bc9f6 e3e9f91
+Author: saleh alghusson <almto3@hotmail.com>
+Date:   Fri Feb 5 08:53:18 2016 -0600
+
+    Merge branch 'Dev' of https://github.com/almto3/cs371p-collatz into Dev
+
+commit a5bc9f6b00f597663ac5639c7a53e32c3563bf5e
+Author: saleh alghusson <almto3@hotmail.com>
+Date:   Fri Feb 5 08:50:40 2016 -0600
+
+    deleted extra folder
+
+commit e3e9f91fdec9f339aa28e3ae50ce2307296fff36
+Author: almto3 <almto3@hotmail.com>
+Date:   Thu Feb 4 22:16:24 2016 -0600
+
+    Delete .gitignore (copy)
+
+commit 4cf07f6ee94b7d59b83cb86cc9fe7f97bd64fd4e
+Author: saleh alghusson <almto3@hotmail.com>
+Date:   Thu Feb 4 22:10:50 2016 -0600
+
+    added .travis, fo real this time
+
+commit b5450ef3f9ac1685a6cff8b92e09dd7a4144a6b3
+Author: saleh alghusson <almto3@hotmail.com>
+Date:   Thu Feb 4 21:59:58 2016 -0600
+
+    added .travis
+
+commit 8ee4b9f08dc580a98819adc6ce1e2393f22d374f
+Author: saleh alghusson <almto3@hotmail.com>
+Date:   Thu Feb 4 21:49:04 2016 -0600
+
+    removed main.cpp
+
+commit 7568866e74f5658e97926c478d4af6b85c02c244
+Author: saleh alghusson <almto3@hotmail.com>
+Date:   Thu Feb 4 21:31:45 2016 -0600
+
+    maketest :)
+
+commit b92a2283a241fc1172f94c922d5c677aa793e166
+Author: almto3 <almto3@hotmail.com>
+Date:   Thu Feb 4 16:47:17 2016 -0600
+
+    Copied public repo
+
+commit de0624414aba53e69644c84711f73bfde9b08071
+Author: almto3 <almto3@hotmail.com>
+Date:   Thu Feb 4 14:25:48 2016 -0600
+
+    added list
+
+commit ba7156171bdd64629ee39f5ec10382bff6f2d1ed
+Author: almto3 <almto3@hotmail.com>
+Date:   Thu Feb 4 14:01:46 2016 -0600
+
+    Getting user input
+
+commit 7ecf9f788314bbff3e486024b6ab44bb8d13f35b
+Author: almto3 <almto3@hotmail.com>
+Date:   Thu Feb 4 13:45:36 2016 -0600
+
+    Create a dev Branch
+
+commit 0f55b0c29bec7bbfb2c28e6934b953465dc28fc9
+Author: almto3 <almto3@hotmail.com>
+Date:   Thu Feb 4 13:36:57 2016 -0600
+
+    first commit (just basic code)
